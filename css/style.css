@@ -40,9 +40,9 @@
     }
 }
 
-.navbar>.container>.btn {
+/* .navbar>.container>.btn {
     background-color: #000080;
-}
+} */
 
 .nav-item>.nav-link {
     color: #000000;
@@ -69,15 +69,15 @@
     color: #360808;
 }
 
-.navbar>.container>.offcanvas>.offcanvas-body>.btn {
+/* .navbar>.container>.offcanvas>.offcanvas-body>.btn {
     background-color: rgb(113, 44, 249);
     color: #ffffff;
-}
+} */
 
-.container-fluid>.banner>.banner-content>.btn {
+/* .container-fluid>.banner>.banner-content>.btn {
     background-color: rgb(113, 44, 249);
     color: #ffffff;
-}
+} */
 
 .owner {
     width: 700px;
