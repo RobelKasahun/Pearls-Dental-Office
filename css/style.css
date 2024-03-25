@@ -7,6 +7,7 @@
     .navbar>.container>.offcanvas>.offcanvas-body>.btn {
         width: 100%;
         margin-top: 10px;
+        padding: 10px;
     }
 
     .mid-content>.mid-inner-content>.owner {
@@ -41,7 +42,7 @@
     }
 }
 
-.row > h5 {
+.row>h5 {
     color: #ffffff;
 }
 
@@ -98,4 +99,13 @@
 
 .mid-content>.mid-inner-content>.container-fluid>.welcome {
     margin-top: 20px;
+}
+
+.copyright {
+    background-color: rgb(113, 44, 249);
+    color: #ffffff;
+}
+
+.mt-2 {
+    width: 182.42px;
 }
